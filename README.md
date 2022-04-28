@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: Data Structures & Algorithms
 - 🥅 2022 Goals: Complete DSA
-- 👯 Upcoming Project: A̶I̶ B̶a̶s̶e̶d̶ C̶h̶a̶t̶b̶o̶t̶ (̶P̶y̶t̶h̶o̶n̶)̶ (Completed!)
+- 👯 Upcoming Project: AI Based ChatBot (Completed!)
 - ⚡ Fun fact: I love to play badminton & watch movies
 - 😻 Checkout my spotify Playlist : [Harsh Negi](https://open.spotify.com/user/jwxkomefm2s1eqdqmztzrrral)
 
