@@ -1,11 +1,11 @@
 # Hi there 👋 , I'm Harsh Negi  
 
 
-## I'm a Sophomore Student Studying At Chandigarh University
+## I'm a Pre-Final Year Student Studying At Chandigarh University
 
-- 🌱 I’m currently learning: Data Structures & Algorithms
-- 🥅 2022 Goals: Complete DSA
-- 👯 Upcoming Project: AI Based ChatBot (Completed!)
+- 🌱 I’m currently learning: Data Science Fundamentals
+- 🥅 2022 Goals: Practice DSA
+- 👯 Upcoming Project: Spotify Playlist Recommendation System
 - ⚡ Fun fact: I love to play badminton & watch movies
 - 😻 Checkout my spotify Playlist : [Harsh Negi](https://open.spotify.com/user/jwxkomefm2s1eqdqmztzrrral)
 
