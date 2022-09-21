@@ -38,7 +38,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshnegi1434)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=PGLife)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=PGLife" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=Chatbot" />
+</a>
+
 
 [twitter]: https://twitter.com/harshNA2701
 [instagram]: https://instagram.com/harsh_____negi
