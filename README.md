@@ -35,17 +35,24 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; &nbsp;
 
+### Projects :
+
+<a href="https://github.com/harshnegi1434/PGLife">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=PGLife" />
+</a>
+<a href="https://github.com/harshnegi1434/Chatbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=Chatbot" />
+</a>
+<a href="https://github.com/harshnegi1434/Feedback_Recorder">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=Feedback_Recorder" />
+</a>
+<a href="https://github.com/harshnegi1434/Quiz_Program">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=Quiz_Program" />
+</a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshnegi1434)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=PGLife)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=PGLife" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=Chatbot" />
-</a>
 
 
 [twitter]: https://twitter.com/harshNA2701
