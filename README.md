@@ -38,9 +38,6 @@
 ### Projects :
 
 <div>
-<a href="https://github.com/harshnegi1434/PGLife">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=PGLife" />
-</a>
 <a href="https://github.com/harshnegi1434/Chatbot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshnegi1434&repo=Chatbot" />
 </a>
@@ -55,8 +52,10 @@
 </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshnegi1434)](https://github.com/anuraghazra/github-readme-stats)
-
+&nbsp; &nbsp;
+<a href="https://github.com/anuraghazra/github-readme-stats" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshnegi1434" />
+</a>
 
 
 [twitter]: https://twitter.com/harshNA2701
