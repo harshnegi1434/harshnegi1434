@@ -20,8 +20,9 @@
 [![instagram](./img/instagram-light.svg)](https://instagram.com/harsh_____negi#gh-light-mode-only)
 [![instagram](./img/instagram-dark.svg)](https://instagram.com/harsh_____negi#gh-dark-mode-only)
 
-<div>
+
 ### Languages and Tools:
+
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java")&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
@@ -34,7 +35,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [twitter]: https://twitter.com/harshNA2701
