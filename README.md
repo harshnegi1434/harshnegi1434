@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: DS & DS [Data Structures & Data Science]
 - 🥅 2023 Goals: Complete Google Data Science Course
-- 👯 Upcoming Project: Emergency Blood Bank System
+- 👯 Upcoming Project: Personal Portfolio 
 - ⚡ Fun fact: I'm a Cinephile
 - 😻 Checkout my spotify Playlist : [Harsh Negi](https://open.spotify.com/user/jwxkomefm2s1eqdqmztzrrral)
 
