@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Harsh Negi  
 
 
-## I'm a Pre-Final Year Student Studying At Chandigarh University
+## I'm a Final Year Student Studying At Chandigarh University
 
 - 🌱 I’m currently learning: DS & DS [Data Structures & Data Science]
 - 🥅 2023 Goals: Complete Google Data Science Course
