@@ -1,11 +1,10 @@
 # Hi there 👋 , I'm Harsh Negi  
 
 
-## I'm a Final Year Student Studying At Chandigarh University
+## I'm a Final Year Student Studying At Chandigarh University and Currently Interning as a Software Engineering Intern at Navikenz
 
-- 🌱 I’m currently learning: DS & DS [Data Structures & Data Science]
-- 🥅 2023 Goals: Complete Google Data Science Course
-- 👯 Upcoming Project: Uber Data Analytics 
+- 🌱 I’m currently learning: AI/ML & Web Development
+- 🥅 2023 Goals: TBD
 - ⚡ Fun fact: I'm a Cinephile
 - 😻 Checkout my spotify Playlist : [Harsh Negi](https://open.spotify.com/user/jwxkomefm2s1eqdqmztzrrral)
 
