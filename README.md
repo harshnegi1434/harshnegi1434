@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Harsh Negi  
 
 
-## I'm a Final Year Student Studying At Chandigarh University and Currently Interning as a Software Engineering Intern at Navikenz
+## Software Engineer Intern at Navikenz
 
 - 🌱 I’m currently learning: AI/ML & Web Development
 - ⚡ Fun fact: I'm a Cinephile
